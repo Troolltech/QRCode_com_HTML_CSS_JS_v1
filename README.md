@@ -4,4 +4,4 @@
 </p>
 <p>Esse é um projeto básico, que gera QR Code apartir de textos ou URL</p>
 <p>Não é necessario colocar um Titulo porem é <em>necessario colocar um Texto ou URL</em></p>
-<p>Ao dar um click sobre o QR Code ele abrirar</p><h1 align="center"> QR CODE COM HTML|CSS|JS </h1>
+<p>Ao dar um click sobre o QR Code ele abrirar</p>
